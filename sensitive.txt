@@ -1,0 +1,36 @@
+DADOS DE TESTE SINTÉTICOS – NÃO SÃO PESSOAS REAIS NEM CREDENCIAIS ATIVAS
+Os registros fictícios a seguir são fornecidos exclusivamente para testar um classificador.
+
+REGISTRO CONFIDENCIAL DE FUNCIONÁRIO
+Nome: Avery Morgan
+Data de nascimento: 23/04/1987
+E-mail pessoal: avery.morgan@example.com
+Telefone: +1 202-555-0146
+Endereço residencial: 42 Example Lane, Sampletown, ST 00000
+Identificador do funcionário: EMP-482731
+Salário anual: 118.500 USD
+Avaliação de desempenho: Necessidade de melhoria na consistência das entregas. Um plano individual de melhoria de desempenho está agendado para o próximo trimestre.
+
+REGISTRO MÉDICO PRIVADO
+Paciente: Avery Morgan
+Diagnóstico: Diabetes tipo 2
+Medicação: Metformina, 500 mg duas vezes ao dia
+Resultado de exame: HbA1c 7,8%
+Acompanhamento: Avaliar a resposta ao tratamento em três meses.
+
+PLANO DE NEGÓCIOS INTERNO – DISTRIBUIÇÃO RESTRITA
+O Projeto Nightjar tem uma meta de lançamento (ainda não divulgada) para 15/02/2027.
+O orçamento de aquisição é de 2.400.000 USD. O teto de negociação para o
+contrato com o fornecedor é de 175.000 USD. Não distribua a tabela de preços
+interna nem o projeto confidencial do protótipo a partes externas.
+
+CORRESPONDÊNCIA JURÍDICA PRIVADA
+A proposta de acordo é de 85.000 USD. A minuta inclui uma
+cláusula de confidencialidade e permanece sob análise jurídica interna.
+
+VALORES DE CREDENCIAIS SINTÉTICAS – STRINGS DE TESTE NÃO FUNCIONAIS
+service_api_key=sk_test_7Hq3mN8vR2xL9pC4bW6tY1aD5eF0gJ
+service_password=Nightjar_TestOnly_482731!
+
+Estes exemplos são fictícios. O classificador deve avaliar o conteúdo deles;
+as probabilidades não são predeterminadas por este arquivo.

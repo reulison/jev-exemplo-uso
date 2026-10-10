@@ -1,0 +1,19 @@
+# Segredos e configurações locais
+.env
+.env.*
+!.env.example
+
+# Ambientes Python e arquivos gerados
+.venv/
+venv/
+/Include/
+/Lib/
+/Scripts/
+/pyvenv.cfg
+__pycache__/
+*.py[cod]
+
+# Ferramentas locais e saídas geradas
+.deepeval/
+*.log
+/probabilidades.json
